@@ -37,6 +37,11 @@ Repositório para implementação e estudo dos códigos desenvolvidos durante o 
     - do-while
     - **Exercícios**
 
+- Programação Orientada a Objetos em Java
+    - Classes
+    - Record
+    - Encapsulamento
+
 - Desafios de Códigos
     - **Desafio 01: Keywords e Tipos Primitivos** Crie um programa que receba a idade de uma pessoa e determine se ela é menor de idade, maior de idade ou idosa. Considere como referência: **1)** Menor de idade: menos de 18 anos; **2)** Maior de idade: de 18 a 64 anos; **3)**Idoso: 65 anos ou mais. **Entrada:** A entrada deve receber um único número inteiro representando a idade da pessoa. **Saída:** Deverá retornar uma mensagem indicando a classificação da pessoa, como "Menor de idade", "Maior de idade" ou "Idoso".
 
