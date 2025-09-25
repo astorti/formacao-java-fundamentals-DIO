@@ -43,10 +43,15 @@ Repositório para implementação e estudo dos códigos desenvolvidos durante o 
     - Encapsulamento
     - Herança
     - Polimorfismo
-    - **Exercícios**
+        - **Exercícios**
+    - Interfaces
+        - Interface
+        - Interface Funcional
 
-- Desafios de Códigos
-    - **Desafio 01: Keywords e Tipos Primitivos** Crie um programa que receba a idade de uma pessoa e determine se ela é menor de idade, maior de idade ou idosa. Considere como referência: **1)** Menor de idade: menos de 18 anos; **2)** Maior de idade: de 18 a 64 anos; **3)**Idoso: 65 anos ou mais. **Entrada:** A entrada deve receber um único número inteiro representando a idade da pessoa. **Saída:** Deverá retornar uma mensagem indicando a classificação da pessoa, como "Menor de idade", "Maior de idade" ou "Idoso".
+
+- **Desafios de Códigos**
+
+    - **Desafio 01: Keywords e Tipos Primitivos** Crie um programa que receba a idade de uma pessoa e determine se ela é menor de idade, maior de idade ou idosa. Considere como referência: **1)** Menor de idade: menos de 18 anos; **2)** Maior de idade: de 18 a 64 anos; **3)** Idoso: 65 anos ou mais. **Entrada:** A entrada deve receber um único número inteiro representando a idade da pessoa. **Saída:** Deverá retornar uma mensagem indicando a classificação da pessoa, como "Menor de idade", "Maior de idade" ou "Idoso".
 
     - **Desafio 02: Trabalhando com Operadores** Escreva um programa que receba dois números inteiros e exiba a soma, subtração, multiplicação, divisão inteira e o resto da divisão entre eles. **Entrada:** A entrada deve receber dois números inteiros separados por espaço. **Saída:** Deverá retornar os resultados das operações aritméticas solicitadas em linhas separadas, na seguinte ordem: soma, subtração, multiplicação, divisão inteira, e resto da divisão.
 
