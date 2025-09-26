@@ -47,6 +47,14 @@ Repositório para implementação e estudo dos códigos desenvolvidos durante o 
     - Interfaces
         - Interface
         - Interface Funcional
+        - **Exercicios**
+
+- Estruturas de Dados
+    - List
+    - Arrays
+    - Set
+        - HashSet
+        - TreeSet
 
 
 - **Desafios de Códigos**
